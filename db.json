@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "id": 11,
+      "title": "Sofa",
+      "category": "Home",
+      "price": 20000
+    },
+    {
+      "id": 16,
+      "title": "Rice 5kg",
+      "category": "Grocery",
+      "price": 300
+    },
+    {
+      "id": 17,
+      "title": "Cooking Oil 1L",
+      "category": "Grocery",
+      "price": 150
+    },
+    {
+      "id": 20,
+      "title": "Milk 1L",
+      "category": "Grocery",
+      "price": 60
+    },
+    {
+      "id": 21,
+      "title": "Football",
+      "category": "Sports",
+      "price": 800
+    },
+    {
+      "id": 22,
+      "title": "Cricket Bat",
+      "category": "Sports",
+      "price": 1500
+    },
+    {
+      "id": 23,
+      "title": "Tennis Racket",
+      "category": "Sports",
+      "price": 2000
+    },
+    {
+      "id": 24,
+      "title": "Badminton Shuttle Pack",
+      "category": "Sports",
+      "price": 400
+    },
+    {
+      "id": 25,
+      "title": "Gym Gloves",
+      "category": "Sports",
+      "price": 600
+    },
+    {
+      "id": 26,
+      "title": "Novel - The Alchemist",
+      "category": "Books",
+      "price": 300
+    },
+    {
+      "id": 27,
+      "title": "Science Fiction - Dune",
+      "category": "Books",
+      "price": 500
+    },
+    {
+      "id": 28,
+      "title": "Programming in JavaScript",
+      "category": "Books",
+      "price": 700
+    },
+    {
+      "id": 29,
+      "title": "History of India",
+      "category": "Books",
+      "price": 450
+    },
+    {
+      "id": 30,
+      "title": "Comic - Marvel Avengers",
+      "category": "Books",
+      "price": 250
+    }
+  ]
+}

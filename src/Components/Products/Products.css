@@ -1,0 +1,86 @@
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  padding: 20px;
+}
+h2 {
+  font-size: 35px;
+  margin-top: 12px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.product-list {
+  list-style: none;
+  padding: 0;
+  width: 75%;
+  margin: 0 auto;
+}
+.product-list li h3 {
+  text-align: left;
+  margin-bottom: 15px;
+  color: #ffffff;
+  background-color: #212121;
+  height: 50px;
+  border-radius: 10px;
+  padding-top: 12px;
+  padding-bottom: 10px;
+}
+.product-item {
+  background: #fff;
+  margin-bottom: 10px;
+  padding: 15px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+}
+.product-item span {
+  flex: 1;
+  text-align: center;
+}
+button {
+  padding: 8px 12px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 14px;
+}
+button:hover {
+  opacity: 0.9;
+}
+.edit-button {
+  background-color: #4CAF50;
+  color: white;
+  margin-right: 10px;
+}
+.delete-button {
+  background-color: #f44336;
+  color: white;
+}
+.add-button {
+  background-color: #008CBA;
+  color: white;
+  display: block;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  border: none;
+  transition: background-color 0.3s ease;
+  margin-bottom: 20px;
+  width: 150px;
+  margin-left: 77%;
+  margin-top: -60px;
+}
+.add-button:hover {
+  background-color: #005f73;
+}
+
