@@ -1,12 +1,6 @@
 {
   "products": [
     {
-      "id": 11,
-      "title": "Sofa",
-      "category": "Home",
-      "price": 20000
-    },
-    {
       "id": 16,
       "title": "Rice 5kg",
       "category": "Grocery",
@@ -23,12 +17,6 @@
       "title": "Milk 1L",
       "category": "Grocery",
       "price": 60
-    },
-    {
-      "id": 21,
-      "title": "Football",
-      "category": "Sports",
-      "price": 800
     },
     {
       "id": 22,
